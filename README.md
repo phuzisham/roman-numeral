@@ -1,6 +1,9 @@
 # _Roman Numeral Converter_
 
-#### _Behavior driven development process exercise for Epicodus, 08.17.2017_
+#### _Behavior driven development process exercise for Epicodus._
+
+#### _Created: 08.17.2017_
+#### _Last Modified: 11.21.2017_
 
 #### By _**Sarah Lindmar and David Hale**_
 
